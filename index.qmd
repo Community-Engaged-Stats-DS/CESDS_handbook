@@ -1,0 +1,11 @@
+# Preface {.unnumbered}
+
+This is currently a placeholder until we have content to add. This will be a Quarto book on the topic of Community-Engaged Statistics and Data Sciences courses. The handbook will detail how to design and implement these courses at your institution from building relationships to assessment of student work. 
+
+Read about the work on the [website](https://community-engaged-stats-ds.github.io/CESDS_website/)!
+
+Check back to learn more!
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+

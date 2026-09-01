@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Building Community-Engaged Statistics and Data Science (CESDS) Courses",
     "section": "",
-    "text": "Preface\nThis is currently a placeholder until we have content to add. This will be a Quarto book on the topic of Community-Engaged Statistics and Data Sciences courses. The handbook will detail how to design and implement these courses at your institution from building relationships to assessment of student work.\nRead about the work on the website!\nCheck back to learn more!\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "GETTING STARTED\nThis handbook provides resources for developing and teaching community-engaged statistics and data science (CESDS) courses at the undergraduate level.\nWe define community-engaged statistics and data science (CESDS) courses as…\nThe handbook covers both the development and implementation of CESDS courses, including course design, project scoping, community partnerships, student project work, ethical considerations, common challenges, and project handoff and sustainability.\nThe handbook is being developed during the 2026-2027 academic year by a working group. More information about the project and working group is available on the CESDS website. Check back to learn more!",
     "crumbs": [
-      "Preface"
+      "GETTING STARTED"
     ]
   },
   {
@@ -32,11 +32,339 @@
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "References (placeholders)",
+    "title": "REFERENCES",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "References (placeholders)"
+      "REFERENCES"
+    ]
+  },
+  {
+    "objectID": "1_02-learning-objectives.html",
+    "href": "1_02-learning-objectives.html",
+    "title": "Learning Objectives",
+    "section": "",
+    "text": "See Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. (USA) 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning Objectives</span>"
+    ]
+  },
+  {
+    "objectID": "2-scoping-projects.html",
+    "href": "2-scoping-projects.html",
+    "title": "2  Scoping Projects",
+    "section": "",
+    "text": "2.1 What makes a good project?",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Scoping Projects</span>"
+    ]
+  },
+  {
+    "objectID": "3-community-partnerships.html",
+    "href": "3-community-partnerships.html",
+    "title": "3  Community Partnerships",
+    "section": "",
+    "text": "3.1 Finding partners",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Community Partnerships</span>"
+    ]
+  },
+  {
+    "objectID": "1-course-design.html",
+    "href": "1-course-design.html",
+    "title": "1  Course Design",
+    "section": "",
+    "text": "1.1 Examples/types of CESDS courses?",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Design</span>"
+    ]
+  },
+  {
+    "objectID": "1-course-design.html#learning-objectives",
+    "href": "1-course-design.html#learning-objectives",
+    "title": "1  Course Design",
+    "section": "1.2 Learning objectives",
+    "text": "1.2 Learning objectives",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Design</span>"
+    ]
+  },
+  {
+    "objectID": "1-course-design.html#sample-syllabi",
+    "href": "1-course-design.html#sample-syllabi",
+    "title": "1  Course Design",
+    "section": "1.3 Sample Syllabi",
+    "text": "1.3 Sample Syllabi",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Design</span>"
+    ]
+  },
+  {
+    "objectID": "1-course-design.html#timelines",
+    "href": "1-course-design.html#timelines",
+    "title": "1  Course Design",
+    "section": "1.4 Timelines",
+    "text": "1.4 Timelines",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Design</span>"
+    ]
+  },
+  {
+    "objectID": "1-course-design.html#assignments-assessment",
+    "href": "1-course-design.html#assignments-assessment",
+    "title": "1  Course Design",
+    "section": "1.5 Assignments & Assessment",
+    "text": "1.5 Assignments & Assessment\n\nTypes of assignments (syllabus-like)\nReference to specific assignments/assessment mentioned elsewhere in the Handbook\nIdentifying resources (books, software, etc)",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Course Design</span>"
+    ]
+  },
+  {
+    "objectID": "2-scoping-projects.html#data-availability",
+    "href": "2-scoping-projects.html#data-availability",
+    "title": "2  Scoping Projects",
+    "section": "2.2 Data availability",
+    "text": "2.2 Data availability",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Scoping Projects</span>"
+    ]
+  },
+  {
+    "objectID": "2-scoping-projects.html#deliverables",
+    "href": "2-scoping-projects.html#deliverables",
+    "title": "2  Scoping Projects",
+    "section": "2.3 Deliverables",
+    "text": "2.3 Deliverables\n(slides, presentation, paper, etc.)",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Scoping Projects</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html",
+    "href": "4-student-project-work.html",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "",
+    "text": "4.1 Onboarding/engaging students\n(ASCCR)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html#teamsroles",
+    "href": "4-student-project-work.html#teamsroles",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "4.2 Teams/roles",
+    "text": "4.2 Teams/roles\n(contracts)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html#communication-meetings",
+    "href": "4-student-project-work.html#communication-meetings",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "4.3 Communication & Meetings",
+    "text": "4.3 Communication & Meetings\n(consulting skills?)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html#communicating-to-a-variety-of-audiences",
+    "href": "4-student-project-work.html#communicating-to-a-variety-of-audiences",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "4.4 Communicating to a variety of audiences",
+    "text": "4.4 Communicating to a variety of audiences",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html#project-management",
+    "href": "4-student-project-work.html#project-management",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "4.5 Project management",
+    "text": "4.5 Project management\n(Trello, GitHub, etc.)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "4-student-project-work.html#scaffolding",
+    "href": "4-student-project-work.html#scaffolding",
+    "title": "4  STUDENT PROJECT WORK",
+    "section": "4.6 Scaffolding",
+    "text": "4.6 Scaffolding\n(project pieces, due dates, etc.) – Statistical Analysis Plan (SAP)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>STUDENT PROJECT WORK</span>"
+    ]
+  },
+  {
+    "objectID": "5-ethics-community-engagement.html",
+    "href": "5-ethics-community-engagement.html",
+    "title": "5  ETHICS & COMMUNITY ENGAGEMENT",
+    "section": "",
+    "text": "5.1 Power & positionality",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>ETHICS & COMMUNITY ENGAGEMENT</span>"
+    ]
+  },
+  {
+    "objectID": "5-ethics-community-engagement.html#training",
+    "href": "5-ethics-community-engagement.html#training",
+    "title": "5  ETHICS & COMMUNITY ENGAGEMENT",
+    "section": "5.2 Training",
+    "text": "5.2 Training\n(background knowledge, conduct, privacy, CITI trainings etc)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>ETHICS & COMMUNITY ENGAGEMENT</span>"
+    ]
+  },
+  {
+    "objectID": "5-ethics-community-engagement.html#ethical-data-practice",
+    "href": "5-ethics-community-engagement.html#ethical-data-practice",
+    "title": "5  ETHICS & COMMUNITY ENGAGEMENT",
+    "section": "5.3 Ethical data practice",
+    "text": "5.3 Ethical data practice",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>ETHICS & COMMUNITY ENGAGEMENT</span>"
+    ]
+  },
+  {
+    "objectID": "5-ethics-community-engagement.html#responsible-communication",
+    "href": "5-ethics-community-engagement.html#responsible-communication",
+    "title": "5  ETHICS & COMMUNITY ENGAGEMENT",
+    "section": "5.4 Responsible communication",
+    "text": "5.4 Responsible communication",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>ETHICS & COMMUNITY ENGAGEMENT</span>"
+    ]
+  },
+  {
+    "objectID": "5-ethics-community-engagement.html#ai-considerations",
+    "href": "5-ethics-community-engagement.html#ai-considerations",
+    "title": "5  ETHICS & COMMUNITY ENGAGEMENT",
+    "section": "5.5 AI Considerations",
+    "text": "5.5 AI Considerations",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>ETHICS & COMMUNITY ENGAGEMENT</span>"
+    ]
+  },
+  {
+    "objectID": "6-common-challenges.html",
+    "href": "6-common-challenges.html",
+    "title": "6  COMMON CHALLENGES",
+    "section": "",
+    "text": "6.1 Partner stops responding",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>COMMON CHALLENGES</span>"
+    ]
+  },
+  {
+    "objectID": "6-common-challenges.html#data-arent-available-arent-usable",
+    "href": "6-common-challenges.html#data-arent-available-arent-usable",
+    "title": "6  COMMON CHALLENGES",
+    "section": "6.2 Data aren’t available / aren’t usable",
+    "text": "6.2 Data aren’t available / aren’t usable",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>COMMON CHALLENGES</span>"
+    ]
+  },
+  {
+    "objectID": "6-common-challenges.html#partner-has-a-change-in-staff",
+    "href": "6-common-challenges.html#partner-has-a-change-in-staff",
+    "title": "6  COMMON CHALLENGES",
+    "section": "6.3 Partner has a change in staff",
+    "text": "6.3 Partner has a change in staff",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>COMMON CHALLENGES</span>"
+    ]
+  },
+  {
+    "objectID": "6-common-challenges.html#student-group-dynamics-and-workload-issues",
+    "href": "6-common-challenges.html#student-group-dynamics-and-workload-issues",
+    "title": "6  COMMON CHALLENGES",
+    "section": "6.4 Student group dynamics and workload issues",
+    "text": "6.4 Student group dynamics and workload issues",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>COMMON CHALLENGES</span>"
+    ]
+  },
+  {
+    "objectID": "6-common-challenges.html#challenging-student-approaches",
+    "href": "6-common-challenges.html#challenging-student-approaches",
+    "title": "6  COMMON CHALLENGES",
+    "section": "6.5 Challenging student approaches",
+    "text": "6.5 Challenging student approaches\n(lack of professionalism, disengagement)",
+    "crumbs": [
+      "IMPLEMENTATION",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>COMMON CHALLENGES</span>"
+    ]
+  },
+  {
+    "objectID": "3-community-partnerships.html#communication-sample-emails",
+    "href": "3-community-partnerships.html#communication-sample-emails",
+    "title": "3  Community Partnerships",
+    "section": "3.2 Communication (sample emails)",
+    "text": "3.2 Communication (sample emails)",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Community Partnerships</span>"
+    ]
+  },
+  {
+    "objectID": "3-community-partnerships.html#roles-and-expectations-scoping-the-project",
+    "href": "3-community-partnerships.html#roles-and-expectations-scoping-the-project",
+    "title": "3  Community Partnerships",
+    "section": "3.3 Roles and expectations + scoping the project",
+    "text": "3.3 Roles and expectations + scoping the project",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Community Partnerships</span>"
+    ]
+  },
+  {
+    "objectID": "3-community-partnerships.html#agreements-data-use-etc.",
+    "href": "3-community-partnerships.html#agreements-data-use-etc.",
+    "title": "3  Community Partnerships",
+    "section": "3.4 Agreements, data use, etc.",
+    "text": "3.4 Agreements, data use, etc.",
+    "crumbs": [
+      "DEVELOPMENT",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Community Partnerships</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgments",
+    "href": "index.html#acknowledgments",
+    "title": "Building Community-Engaged Statistics and Data Science (CESDS) Courses",
+    "section": "Acknowledgments",
+    "text": "Acknowledgments\nDevelopment of this handbook is supported by the RIOS Institute (Institute for a Racially Just, Inclusive, and Open STEM Education). RIOS funding supports the 2026-2027 working group and stipends for participating members.\n\nTips for the authors\n\n\n\n\n\n\nTipTips for Authors\n\n\n\nThis section is for contributors and will be removed from the final handbook.\nThis handbook is built using Quarto. Below are some Quarto features that may be useful as you add content.\n\nHeadings\nUse headings to organize sections within your chapter. They will appear automatically in the page table of contents.\n## Main section\n\n### Subsection\n\n\nCitations\nUse @citationkey to cite sources and add the corresponding BibTeX entry to references.bib.\nThis approach has been used in previous work @knuth84.\n\n\nLinks\nCreate descriptive links rather than displaying a full URL.\nLearn more from the [RIOS Institute](https://qubeshub.org/community/groups/ri\n\n\nCallouts\nCallouts can be used for examples, notes, or other information you want to distinguish from the main text.\nSee examples of call-outs below.\n::: {.callout-note}\nAdd information here.\n\n\nCross-references\nAdd an ID to a section.\n## Learning Objectives {#sec-learning-objectives}\nThen link to it elsewhere using, see ?sec-learning-objectives.\n\n\nComments\nUse HTML comments for notes between authors that should not appear in the rendered handbook:\n&lt;!-- TODO: Add an example here. --&gt;\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nAdd information here.\n\n\nThey can also be collapsible.\n\n\n\n\n\n\nNoteExample\n\n\n\n\n\nAdd an example here.\n\n\n\nSupplemental or sidenote information can be placed in the margin.\n\n\n\n\nAdd a perspective here.",
+    "crumbs": [
+      "GETTING STARTED"
     ]
   }
 ]

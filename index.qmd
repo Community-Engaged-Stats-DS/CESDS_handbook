@@ -1,11 +1,93 @@
-# Preface {.unnumbered}
+# GETTING STARTED {.unnumbered}
 
-This is currently a placeholder until we have content to add. This will be a Quarto book on the topic of Community-Engaged Statistics and Data Sciences courses. The handbook will detail how to design and implement these courses at your institution from building relationships to assessment of student work. 
+This handbook provides resources for developing and teaching community-engaged statistics and data science (CESDS) courses at the undergraduate level.
 
-Read about the work on the [website](https://community-engaged-stats-ds.github.io/CESDS_website/)!
+We define **community-engaged statistics and data science (CESDS)** courses as...
 
-Check back to learn more!
+The handbook covers both the development and implementation of CESDS courses, including course design, project scoping, community partnerships, student project work, ethical considerations, common challenges, and project handoff and sustainability.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+The handbook is being developed during the 2026-2027 academic year by a working group. More information about the project and working group is available on the [CESDS website](https://community-engaged-stats-ds.github.io/CESDS_website/). Check back to learn more!
 
+## Acknowledgments
 
+Development of this handbook is supported by the [RIOS Institute](https://qubeshub.org/community/groups/rios) (Institute for a Racially Just, Inclusive, and Open STEM Education). RIOS funding supports the 2026-2027 working group and stipends for participating members.
+
+### Tips for the authors
+
+::: {.callout-tip title="Tips for Authors"}
+**This section is for contributors and will be removed from the final handbook.**
+
+This handbook is built using [Quarto](https://quarto.org/docs/books/). Below are some Quarto features that may be useful as you add content.
+
+### Headings
+
+Use headings to organize sections within your chapter. They will appear automatically in the page table of contents.
+
+```markdown
+## Main section
+
+### Subsection
+```
+
+### Citations
+
+Use `@citationkey` to cite sources and add the corresponding BibTeX entry to `references.bib`.
+
+```markdown
+This approach has been used in previous work @knuth84.
+```
+
+### Links
+
+Create descriptive links rather than displaying a full URL.
+
+```
+Learn more from the [RIOS Institute](https://qubeshub.org/community/groups/ri
+```
+
+### Callouts
+
+Callouts can be used for examples, notes, or other information you want to distinguish from the main text.
+
+See examples of call-outs below.
+
+```markdown
+::: {.callout-note}
+Add information here.
+```
+
+### Cross-references
+
+Add an ID to a section.
+
+```
+## Learning Objectives {#sec-learning-objectives}
+```
+
+Then link to it elsewhere using, see @sec-learning-objectives.
+
+### Comments
+
+Use HTML comments for notes between authors that should not appear in the rendered handbook:
+
+```
+<!-- TODO: Add an example here. -->
+```
+
+:::
+
+::: {.callout-note}
+Add information here.
+:::
+
+They can also be collapsible.
+
+::: {.callout-note collapse="true" title="Example"}
+Add an example here.
+:::
+
+Supplemental or sidenote information can be placed in the margin.
+
+::: {.column-margin}
+Add a perspective here.
+:::

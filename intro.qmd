@@ -1,6 +1,0 @@
-# Introduction
-
-Placeholders.
-
-See @knuth84 for additional discussion of literate programming.
-

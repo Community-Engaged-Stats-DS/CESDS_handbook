@@ -3,39 +3,53 @@ project:
   output-dir: docs
 
 execute:
-  freeze: auto  
-  
+  freeze: false
+
 book:
   title: "Building Community-Engaged Statistics and Data Science (CESDS) Courses"
-  site-url: https://community-engaged-stats-ds.github.io/CESDS_handbook/ 
+  site-url: https://community-engaged-stats-ds.github.io/CESDS_handbook/
   repo-url: https://github.com/Community-Engaged-Stats-DS/CESDS_handbook
   author: "Claire Kelling, Laurie Baker, Emily Robinson, Tyler George, and XXX"
-  date: "8/25/2026"
+
+  date: today
+  date-format: "[Last updated on] MMMM D, YYYY"
+
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+
+    - part: "DEVELOPMENT"
+      chapters:
+        - 1-course-design.qmd
+        - 2-scoping-projects.qmd
+        - 3-community-partnerships.qmd
+
+    - part: "IMPLEMENTATION"
+      chapters:
+        - 4-student-project-work.qmd
+        - 5-ethics-community-engagement.qmd
+        - 6-common-challenges.qmd
+        - 7-wrap-up.qmd
+
     - references.qmd
-  
+
   page-footer:
     border: true
-    left: 'Built with [Quarto](https://quarto.org) and <span class="bi bi-heart-fill"></span>'
+    left: 'Built with [Quarto](https://quarto.org)'
     right: "[CESDS Website](https://community-engaged-stats-ds.github.io/CESDS_website/)"
-    
+
   search:
     location: navbar
     type: overlay
     copy-button: true
-    
+
 bibliography: references.bib
 
 format:
   html:
-    theme: [brand, custom.scss]
+    theme: [zephyr]
     page-layout: full
-    
+    toc: true
+    toc-depth: 3
+
   pdf:
     documentclass: scrreprt
-
-
-

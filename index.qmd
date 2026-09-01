@@ -62,7 +62,7 @@ Add an ID to a section.
 ## Learning Objectives {#sec-learning-objectives}
 ```
 
-Then link to it elsewhere using, see @sec-learning-objectives.
+Then link to it elsewhere using, see `@sec-learning-objectives`.
 
 ### Comments
 
@@ -78,7 +78,11 @@ Use HTML comments for notes between authors that should not appear in the render
 Add information here.
 :::
 
-They can also be collapsible.
+::: {.callout-warning}
+Add cautionary tale here.
+:::
+
+Learn more about types of Callout Blocks at [quarto.org](https://quarto.org/docs/authoring/callouts.html). They can also be collapsible.
 
 ::: {.callout-note collapse="true" title="Example"}
 Add an example here.

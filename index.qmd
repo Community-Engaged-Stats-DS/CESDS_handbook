@@ -12,8 +12,6 @@ The handbook is being developed during the 2026-2027 academic year by a working 
 
 Development of this handbook is supported by the [RIOS Institute](https://qubeshub.org/community/groups/rios) (Institute for a Racially Just, Inclusive, and Open STEM Education). RIOS funding supports the 2026-2027 working group and stipends for participating members.
 
-### Tips for the authors
-
 ::: {.callout-tip title="Tips for Authors"}
 **This section is for contributors and will be removed from the final handbook.**
 

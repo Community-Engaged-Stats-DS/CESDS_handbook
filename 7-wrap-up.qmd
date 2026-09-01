@@ -3,6 +3,7 @@
 ## Deliverables, Documentation, & Reproducibility
 
 ## Running a public event? 
+
 (Data walks, community meeting, etc)
 
 ## Sustainability

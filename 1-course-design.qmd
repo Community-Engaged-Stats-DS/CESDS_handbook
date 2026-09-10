@@ -1,14 +1,14 @@
 # Course Design
 
-## Examples/types of CESDS courses?
+## Examples/types of CESDS courses? {#sec-course-types}
 
-## Learning objectives
+## Learning objectives {#sec-learning-objectives}
 
-## Sample Syllabi
+## Sample Syllabi {#sec-syllabi}
 
-## Timelines
+## Timelines {#sec-timelines}
 
-## Assignments & Assessment
+## Assignments & Assessment {#sec-assignments}
 
 + Types of assignments (syllabus-like)
 + Reference to specific assignments/assessment mentioned elsewhere in the Handbook

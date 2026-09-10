@@ -9,14 +9,16 @@ book:
   title: "Building Community-Engaged Statistics and Data Science (CESDS) Courses"
   site-url: https://community-engaged-stats-ds.github.io/CESDS_handbook/
   repo-url: https://github.com/Community-Engaged-Stats-DS/CESDS_handbook
-  author: "Claire Kelling, Laurie Baker, Emily Robinson, Tyler George, and XXX"
-
+  author: "Ming An, Karen Benway, Stacy DeRuiter, Tyler George, Claire Kelling, Gretchen Martinet, Emily Robinson, and Rori Rohlfs"
+  
   date: today
   date-format: "[Last updated on] MMMM D, YYYY"
 
+  sidebar:
+    collapse-level: 2
+    
   chapters:
     - index.qmd
-
     - part: "DEVELOPMENT"
       chapters:
         - 1-course-design.qmd
@@ -34,7 +36,7 @@ book:
 
   page-footer:
     border: true
-    left: 'Built with [Quarto](https://quarto.org)'
+    left: "This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
     right: "[CESDS Website](https://community-engaged-stats-ds.github.io/CESDS_website/)"
 
   search:

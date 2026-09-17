@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/index.html</loc>
-    <lastmod>2026-09-10T17:00:44.977Z</lastmod>
+    <lastmod>2026-09-17T16:43:56.765Z</lastmod>
   </url>
   <url>
     <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/1-course-design/course-types.html</loc>
@@ -31,5 +31,21 @@
   <url>
     <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/3-community-partnerships.html</loc>
     <lastmod>2026-09-01T01:52:14.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/4-student-project-work.html</loc>
+    <lastmod>2026-09-01T01:52:16.640Z</lastmod>
+  </url>
+  <url>
+    <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/5-ethics-community-engagement.html</loc>
+    <lastmod>2026-09-01T01:52:19.070Z</lastmod>
+  </url>
+  <url>
+    <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/6-common-challenges.html</loc>
+    <lastmod>2026-09-01T01:52:22.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://community-engaged-stats-ds.github.io/CESDS_handbook/7-wrap-up.html</loc>
+    <lastmod>2026-09-01T15:26:21.723Z</lastmod>
   </url>
 </urlset>

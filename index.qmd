@@ -1,4 +1,11 @@
+
+::: {.callout-warning}
+This handbook is in development.
+:::
+
+
 # GETTING STARTED {.unnumbered}
+
 
 This handbook provides resources for developing and teaching community-engaged statistics and data science (CESDS) courses at the undergraduate level.
 

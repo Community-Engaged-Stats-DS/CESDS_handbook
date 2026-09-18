@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 execute:
-  freeze: false
+  freeze: true
 
 book:
   title: "Building Community-Engaged Statistics and Data Science (CESDS) Courses"
   site-url: https://community-engaged-stats-ds.github.io/CESDS_handbook/
   repo-url: https://github.com/Community-Engaged-Stats-DS/CESDS_handbook
-  author: "Ming An, Laurie Bates, Karen Benway, Stacy DeRuiter, Tyler George, Claire Kelling, Gretchen Martinet, Emily Robinson, and Rori Rohlfs"
+  author: "Ming An, Laurie Baker, Karen Benway, Stacy DeRuiter, Tyler George, Claire Kelling, Gretchen Martinet, Emily Robinson, and Rori Rohlfs"
   
   date: today
   date-format: "[Last updated on] MMMM D, YYYY"
